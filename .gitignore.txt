@@ -1,3 +1,0 @@
-# игнорирование файла debug.log
-
-debug.log
